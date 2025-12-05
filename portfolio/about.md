@@ -1,8 +1,9 @@
 ---
+layout: default
 title: "About"
-lang: "en"
-permalink: /wd/portfolio/about/
+permalink: /portfolio/about.html
 ---
+
 
 # About Me
 I'm a Data Scientist and ML Engineer with experience in forecasting, NLP, MLOps, and deploying ML pipelines.

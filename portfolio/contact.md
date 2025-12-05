@@ -1,8 +1,9 @@
 ---
+layout: default
 title: "Contact"
-lang: "en"
-permalink: /wd/portfolio/contact/
+permalink: /portfolio/contact.html
 ---
+
 
 # Contact
 Email: wissam.draou.pro@gmail.com  
