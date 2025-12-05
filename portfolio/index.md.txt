@@ -1,0 +1,15 @@
+---
+title: "Portfolio"
+lang: "en"
+permalink: /wd/portfolio/
+---
+
+# Hello, I am Wissam
+Data Scientist & Machine Learning Engineer.
+
+- Expertise: Machine Learning, Deep Learning, NLP, MLOps, Docker, CI/CD
+- Language: [Français](/projects/portfolio/index.md)
+
+## Featured Projects
+- [Sales Forecasting Platform](/projects/projet1/)
+- [NLP Chatbot](/projects/projet2/)
