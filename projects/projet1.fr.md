@@ -1,9 +1,10 @@
 ---
-title: "Plateforme de prévision des ventes"
-lang: "fr"
-tags: ["series-temporelles", "Prophet", "MLOps"]
-summary: "Prévisions par région, pipelines automatisés, réconciliation MinT."
+layout: default
+title: "Project 1"
 ---
 
-J'ai développé un pipeline complet de prévision des ventes utilisant Prophet et auto.arima.
-La solution inclut le réentraînement automatique, le déploiement Docker et des dashboards de suivi.
+# Project 1
+
+Description du projet 1 en francais.
+
+[EN](projet1.en.html)

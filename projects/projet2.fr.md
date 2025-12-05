@@ -1,9 +1,10 @@
 ---
-title: "Chatbot NLP"
-lang: "fr"
-tags: ["NLP", "Python", "Transformer"]
-summary: "Chatbot support client utilisant Transformers et spaCy."
+layout: default
+title: "Project 2"
 ---
 
-Développement d'un chatbot multilingue pour le support client. 
-Construit avec Transformers, spaCy et déployé avec Docker + pipelines CI/CD.
+# Project 2
+
+Description du projet 2 en anglais.
+
+[EN](projet2.en.html)
