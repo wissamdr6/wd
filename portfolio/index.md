@@ -1,15 +1,10 @@
 ---
+layout: default
 title: "Portfolio"
-lang: "en"
-permalink: /wd/portfolio/
 ---
 
-# Hello, I am Wissam
-Data Scientist & Machine Learning Engineer.
+# Bienvenue sur mon Portfolio
 
-- Expertise: Machine Learning, Deep Learning, NLP, MLOps, Docker, CI/CD
-- Language: [Français](/wd/portfolio/index.md)
+Vous trouverez ici mes projets et informations.
 
-## Featured Projects
-- [Sales Forecasting Platform](/wd/projet1/)
-- [NLP Chatbot](/wd/projet2/)
+[About](/wd/portfolio/about.html) | [Contact](/wd/portfolio/contact.html)

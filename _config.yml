@@ -1,12 +1,12 @@
-# _config.yml
-title: "Wissam Draou Data Scientist / ML Engineer"
+title: "Wissam Draou — Data Scientist / ML Engineer"
 email: "wissam.draou.pro@gmail.com"
 description: "Portfolio — Data Science, ML, MLOps"
-baseurl: "/wd"        
+baseurl: "/wd"
 url: "https://wissamdr6.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes"  
-plugins: ["jekyll-feed"]                   
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
 
 # Collections
 collections:
@@ -14,13 +14,9 @@ collections:
     output: true
     permalink: /:collection/:name/
 
-# Langues
-languages: ["en", "fr"]
-default_lang: "en"
-
-# navigation data file
-navigation: _data/navigation.yml
-
-# minimal mistakes settings (exemples)
-permalink: pretty
+# Pagination (si tu veux l’utiliser)
 paginate: 6
+paginate_path: "/page:num/"
+
+# Paramètres pour le site
+permalink: pretty
