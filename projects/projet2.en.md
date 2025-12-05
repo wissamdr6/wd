@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Project 2"
-permalink: /projects/projet1.en.html
+permalink: /projects/projet2.en.html
 ---
 
 # Project 2
