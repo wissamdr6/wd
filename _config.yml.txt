@@ -3,7 +3,7 @@ title: "Wissam Draou Data Scientist / ML Engineer"
 email: "wissam.draou.pro@gmail.com"
 description: "Portfolio — Data Science, ML, MLOps"
 baseurl: "/wd"        
-url: "https://TON_USERNAME.github.io"
+url: "https://wissamdr6.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"  
 plugins: ["jekyll-feed"]                   
