@@ -1,22 +1,10 @@
-title: "Wissam Draou — Data Scientist / ML Engineer"
-email: "wissam.draou.pro@gmail.com"
-description: "Portfolio — Data Science, ML, MLOps"
-baseurl: "/wd"
+title: "Portfolio Wissam"
+description: "Portfolio et projets de Wissam"
+baseurl: "/wd"        
 url: "https://wissamdr6.github.io"
-
 theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name/
-
-# Pagination (si tu veux l’utiliser)
-paginate: 6
-paginate_path: "/page:num/"
-
-# Paramètres pour le site
-permalink: pretty
+  - jekyll-seo-tag
+  - jekyll-sitemap
+markdown: kramdown

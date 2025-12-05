@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "Project 2"
+title: "Projet 2"
+permalink: /projects/projet2.fr.html
 ---
 
-# Project 2
+# Projet 2
 
-Description du projet 2 en anglais.
+Description du projet en français.
 
 [EN](projet2.en.html)

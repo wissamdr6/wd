@@ -1,12 +1,19 @@
 # Portfolio
 - title: "Portfolio"
   url: "/wd/portfolio/"
-- title: "Project 1"
+
+- title: "Projects"
+  url: "/wd/projects/"
+
+- title: "Project 1 EN"
   url: "/wd/projects/projet1.en.html"
-- title: "Project 2"
+
+- title: "Project 1 FR"
+  url: "/wd/projects/projet1.fr.html"
+
+- title: "Project 2 EN"
   url: "/wd/projects/projet2.en.html"
-- title: "About"
-  url: "/wd/portfolio/about.html"
-- title: "Contact"
-  url: "/wd/portfolio/contact.html"
+
+- title: "Project 2 FR"
+  url: "/wd/projects/projet2.fr.html"
 
