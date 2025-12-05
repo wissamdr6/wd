@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 lang: "en"
-permalink: /projects/portfolio/contact/
+permalink: /wd/portfolio/contact/
 ---
 
 # Contact
